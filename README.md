@@ -28,7 +28,6 @@ I used the **California Housing Prices** dataset, based on data from the 1990 Ca
 3. Run the script.
 
 ## Results
-## Results
 
 ### Attempt 1: Simple Linear Regression
 I started by using only one feature (Median Income).
